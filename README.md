@@ -1,4 +1,11 @@
-### Hi there 👋
+<h3 align="center">
+  Welcome to Shalale Mammadli's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2657F7&center=true&vCenter=true&width=600&lines=I+am+a+Java+Backend+developer;Currently+learning+Microservice+Architecture;Quick-Learner" alt="Typing SVG" /></a>
+</p>
 
 <!--
 **Shalale/Shalale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
