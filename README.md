@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2657F7&center=true&vCenter=true&width=600&lines=I+am+a+Java+Backend+developer;I+am+currently+working+on+Spring+Framework;Learning+Microservice+Architecture;Quick-Learner" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2657F7&center=true&vCenter=true&width=600&lines=I+am+a+Software+developer;I+am+currently+working+on+Java, +Spring+Framework;Learning+Microservice+Architecture;Quick-Learner" alt="Typing SVG" /></a>
 </p>
 
 <!--
