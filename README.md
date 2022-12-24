@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to my GitHub profile!
+  Welcome to Shalale Mammadli's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
